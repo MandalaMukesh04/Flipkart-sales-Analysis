@@ -29,7 +29,7 @@ The dataset consists of Flipkart sales records, including: <a href = "https://gi
 - pip install pandas numpy matplotlib seaborn
 - Run the Jupyter notebook to analyze the data.
  
-# Open the Power BI dashboard (<a href = "https://github.com/MandalaMukesh04/Flipkart-sales-Analysis/blob/main/Dashboard.pbix">Dashboard)) to explore insights visually.
+# Open the Power BI dashboard <a href = "https://github.com/MandalaMukesh04/Flipkart-sales-Analysis/blob/main/Dashboard.pbix">Dashboard
 - Insights & Findings
 - Top-selling products and categories
 - Seasonal trends in sales
