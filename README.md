@@ -9,7 +9,7 @@ This project analyzes Flipkart sales data to identify trends, patterns, and insi
 - Visualization: Interactive Power BI dashboard to present key insights.
 
 # Dataset
-The dataset consists of Flipkart sales records, including:
+The dataset consists of Flipkart sales records, including: <a href = "https://github.com/MandalaMukesh04/Flipkart-sales-Analysis/tree/main/Dataset">View Dataset
 
 - Product names and categories
 - Sales figures and revenue
