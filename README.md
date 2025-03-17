@@ -53,6 +53,8 @@ To set up and run the project, follow these steps:
 3. Refresh data sources if required.
 4. Explore the interactive dashboard.
 
+![Image](https://github.com/user-attachments/assets/a05c6946-e425-49eb-98a1-0787c21e57bd)
+
 ### Using Python (Optional for Data Preprocessing)
 1. Clone the repository (if applicable):
    ```bash
