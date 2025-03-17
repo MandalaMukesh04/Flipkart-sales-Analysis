@@ -39,8 +39,8 @@ The dataset used for this analysis contains sales transactions, including order 
 - **Real-Time Analytics**: Connect Power BI to live data sources for real-time sales tracking.
 
 ## References
-- **Pandas Documentation**: Used for data preprocessing and manipulation.
-- **Matplotlib & Seaborn Documentation**: For data visualization.
+- **Pandas ([**Documentation**](https://pandas.pydata.org/docs/user_guide/missing_data.html)) :** Used for data preprocessing and manipulation.
+- **Matplotlib & Seaborn ([**Documentation**](https://matplotlib.org/stable/plot_types/basic/index.html)) :** For data visualization.
 - **Power BI Guide**: To build interactive reports and dashboards.
 - **Machine Learning Mastery**: For future predictive modeling techniques.
 
