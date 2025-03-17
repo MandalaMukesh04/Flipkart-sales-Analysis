@@ -56,7 +56,7 @@ To set up and run the project, follow these steps:
 ### Using Python (Optional for Data Preprocessing)
 1. Clone the repository (if applicable):
    ```bash
-   git clone https://github.com/your-repo/flipkart-sales-analysis.git
+   git clone https://github.com/MandalaMukesh04/flipkart-sales-analysis.git
    cd flipkart-sales-analysis
    ```
 2. Install dependencies:
