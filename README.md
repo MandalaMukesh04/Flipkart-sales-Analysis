@@ -63,11 +63,5 @@ To set up and run the project, follow these steps:
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-3. Run the data preprocessing script:
-   ```bash
-   python preprocess.py
-   ```
 
-## Conclusion
-This project demonstrates the power of data analytics and visualization in deriving valuable business insights. By leveraging Power BI and Python, Flipkart Sales Analysis helps in understanding sales trends and improving business strategies for e-commerce platforms.
 
